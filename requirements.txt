@@ -1,1 +1,19 @@
-
+gradio==4.16.0
+transformers==4.35.0
+torch==2.0.1
+torchvision==0.15.2
+torchaudio==2.0.2
+pillow==10.0.0
+requests==2.31.0
+huggingface-hub==0.20.2
+bitsandbytes==0.41.2
+accelerate==0.25.0
+--extra-index-url https://download.pytorch.org/whl/cu117
+torch
+torchvision
+fairscale
+ftfy
+timm
+open_clip_torch==2.14.0
+requests
+clip-interrogator==0.5.4
